@@ -12,7 +12,8 @@ This website describes who I am, highlights some of my work as a Web Developer, 
 - jQuery
 - FormSpree
 ## Support and contact detail
-ZUBEYR ABUBAKAR https://github.com/zubeir-Abubakar/
+ZUBEYR ABUBAKAR https://github.com/zubeir-Abubakar/ 
+Email me @ `zubkayare@gmail.com`
 ### License
 This project is under MIT License
 Copyright (c) 2019 Zubeyr Abubakar
